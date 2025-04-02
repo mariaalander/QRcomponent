@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     font-family: 'Outfit';
     background-color: hsl(212, 45%, 89%);
-    align-items: center;
+    align-items: left;
     justify-content: center;  
     min-height: 100vh;
 }
