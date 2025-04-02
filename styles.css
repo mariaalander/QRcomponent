@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Outfit';
-    background-color: hsl(212, 45%, 89%);
+    background-color: hsl(191, 76%, 48%);
     align-items: left;
     justify-content: center;  
     min-height: 100vh;
